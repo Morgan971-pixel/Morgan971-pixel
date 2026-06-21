@@ -2,7 +2,7 @@
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=540&lines=computational+neuroscience;multi-agent+systems;finance+%2B+ML;always+building)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=540&lines=computational+neuroscience;multi-agent+systems;systems+design;finance+%2B+ML;cognitive+science;always+building)](https://git.io/typing-svg)
 
 <br/>
 
