@@ -1,8 +1,8 @@
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2e,50:2d1b69,100:0d0d2e&height=220&section=header&text=MORGAN&fontSize=96&fontColor=ffffff&fontAlignY=40&desc=ML%20Engineer%20%7C%20Neuroscience%20Researcher%20%7C%20AI%20Systems%20Builder&descAlignY=62&descColor=c084fc&animation=fadeIn" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2e,50:2d1b69,100:0d0d2e&height=220&section=header&text=MORGAN&fontSize=96&fontColor=ffffff&fontAlignY=40&desc=Software%20Engineer%20%7C%20Systems%20Builder&descAlignY=62&descColor=c084fc&animation=fadeIn" />
 
 <div align="center">
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=540&lines=Machine+Learning+Engineer;Neuroscience+%2B+Computation;Multi-Agent+AI+Systems;NIH+Summer+Research+%2726;diiVe+Fellow+%7C+Cape+Town+%2726;Always+building+something)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=C084FC&center=true&vCenter=true&width=540&lines=computational+neuroscience;multi-agent+systems;quant+finance+%2B+ML;where+brains+meet+compute;cognitive+science+%2B+code;always+building+something)](https://git.io/typing-svg)
 
 <br/>
 
@@ -13,7 +13,7 @@
 
 ---
 
-## `> whoami`
+`> whoami`
 
 ```
 Name     : Morgan
@@ -24,7 +24,7 @@ Stack    : Python · PyTorch · MLflow · Streamlit · LangChain · FastAPI
 
 ---
 
-## `> cat featured_projects.md`
+`> cat featured_projects.md`
 
 <table>
 <tr>
@@ -94,7 +94,7 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 
 ---
 
-## `> neofetch --skills`
+`> neofetch --skills`
 
 <div align="center">
 
@@ -106,7 +106,7 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 
 ---
 
-## `> cat github_stats.md`
+`> cat github_stats.md`
 
 <div align="center">
 
@@ -131,7 +131,7 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 
 ---
 
-## `> git log --pretty=activity`
+`> git log --pretty=activity`
 
 <div align="center">
 
@@ -141,7 +141,7 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 
 ---
 
-## `> ls trophies/`
+`> ls trophies/`
 
 <div align="center">
 
