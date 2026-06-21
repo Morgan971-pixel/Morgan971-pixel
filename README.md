@@ -13,8 +13,6 @@
 
 ---
 
-`> whoami`
-
 ```
 Name     : Morgan
 Role     : Software Engineer
@@ -23,8 +21,6 @@ Stack    : Python · PyTorch · MLflow · Streamlit · LangChain · FastAPI
 ```
 
 ---
-
-`> cat featured_projects.md`
 
 <table>
 <tr>
@@ -94,8 +90,6 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 
 ---
 
-`> neofetch --skills`
-
 <div align="center">
 
 [![ML Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,git,docker,linux,bash,github&perline=9)](https://skillicons.dev)
@@ -105,8 +99,6 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 </div>
 
 ---
-
-`> cat github_stats.md`
 
 <div align="center">
 
@@ -130,8 +122,6 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 </div>
 
 ---
-
-`> git log --pretty=activity`
 
 <div align="center">
 
