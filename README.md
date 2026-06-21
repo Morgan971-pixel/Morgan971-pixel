@@ -114,7 +114,7 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 <tr>
 <td>
 
-![Morgan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Morgan971-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true)
+![Morgan's GitHub Stats](https://github-readme-stats.vercel.app/api?username=Morgan971-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true)
 
 </td>
 <td>
