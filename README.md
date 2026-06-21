@@ -141,16 +141,6 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 
 ---
 
-`> ls trophies/`
-
-<div align="center">
-
-[![Trophies](https://github-profile-trophy.vercel.app/?username=Morgan971-pixel&theme=darkhub&column=7&margin-w=12&margin-h=12&no-frame=true)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 <div align="center">
 
 <picture>
