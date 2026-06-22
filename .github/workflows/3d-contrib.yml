@@ -20,14 +20,14 @@ jobs:
           {
             "githubUserName": "Morgan971-pixel",
             "type": "gitHub",
-            "backgroundColor": "#0d0d2e",
-            "foregroundColor": "#c084fc",
-            "guideColor": "#2d1b69",
-            "branchColor": "#a855f7",
-            "commitColor": "#c084fc",
-            "otherColor": "#7c3aed",
-            "strongColor": "#e879f9",
-            "weekLabelColor": "#6b7280",
+            "backgroundColor": "#182A35",
+            "foregroundColor": "#1C3040",
+            "guideColor": "#2a4560",
+            "branchColor": "#FF571C",
+            "commitColor": "#FF571C",
+            "otherColor": "#c084fc",
+            "strongColor": "#FF571C",
+            "weekLabelColor": "#94a3b8",
             "dateRangeValue": 1
           }
           SETTINGS
