@@ -12,24 +12,29 @@ jobs:
     steps:
       - uses: actions/checkout@v3
 
+      - name: Write settings file
+        run: |
+          cat > /tmp/3d-settings.json << 'SETTINGS'
+          {
+            "githubUserName": "Morgan971-pixel",
+            "type": "gitHub",
+            "backgroundColor": "#0d0d2e",
+            "foregroundColor": "#c084fc",
+            "guideColor": "#2d1b69",
+            "branchColor": "#a855f7",
+            "commitColor": "#c084fc",
+            "otherColor": "#7c3aed",
+            "strongColor": "#e879f9",
+            "weekLabelColor": "#6b7280",
+            "dateRangeValue": 1
+          }
+          SETTINGS
+
       - uses: yoshi389111/github-profile-3d-contrib@0.7.1
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
           USERNAME: ${{ github.repository_owner }}
-          SETTING_JSON: |
-            {
-              "githubUserName": "Morgan971-pixel",
-              "type": "gitHub",
-              "backgroundColor": "#0d0d2e",
-              "foregroundColor": "#c084fc",
-              "guideColor": "#2d1b69",
-              "branchColor": "#a855f7",
-              "commitColor": "#c084fc",
-              "otherColor": "#7c3aed",
-              "strongColor": "#e879f9",
-              "weekLabelColor": "#6b7280",
-              "dateRangeValue": 1
-            }
+          SETTING_JSON: /tmp/3d-settings.json
 
       - name: Commit and Push
         run: |
