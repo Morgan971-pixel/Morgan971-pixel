@@ -143,12 +143,4 @@ Monte Carlo simulation modeling college admissions under uncertainty. Probabilis
 
 ---
 
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Morgan971-pixel/Morgan971-pixel/main/profile-3d-contrib/profile-customize.svg" width="100%" alt="3D Contribution Graph" />
-
-</div>
-
----
-
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d0d2e,50:2d1b69,100:0d0d2e&height=120&section=footer" />
