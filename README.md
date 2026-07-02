@@ -77,7 +77,7 @@ Stroke risk prediction using XGBoost and Random Forest with SHAP interpretabilit
 
 **05 — college-monte-carlo**
 
-Monte Carlo simulation modeling college admissions under uncertainty. Probabilistic modeling of acceptance outcomes across varying applicant profiles.
+Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs-party probability estimator and a 16-week pizza budget predictor that models stress eating, social events, and random cravings.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
