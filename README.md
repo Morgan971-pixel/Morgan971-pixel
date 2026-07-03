@@ -106,7 +106,7 @@ Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs
 <tr>
 <td>
 
-![GitHub Stats](https://github-readme-stats-silk-two-82.vercel.app/api?username=Morgan971-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true)
+![GitHub Stats](https://github-readme-stats-silk-two-82.vercel.app/api?username=Morgan971-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true&hide=stars)
 
 </td>
 <td>
@@ -117,18 +117,16 @@ Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs
 </tr>
 </table>
 
-![Top Languages](https://github-readme-stats-silk-two-82.vercel.app/api/top-langs/?username=Morgan971-pixel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
-
 <table>
 <tr>
 <td>
 
-![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Morgan971-pixel&theme=tokyonight)
+![Repos Per Language](https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=Morgan971-pixel&theme=tokyonight&exclude=Jupyter%20Notebook)
 
 </td>
 <td>
 
-![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Morgan971-pixel&theme=tokyonight)
+![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Morgan971-pixel&theme=tokyonight&exclude=Jupyter%20Notebook)
 
 </td>
 <td>
