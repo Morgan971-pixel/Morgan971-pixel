@@ -117,9 +117,20 @@ Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs
 </tr>
 </table>
 
+<table>
+<tr>
+<td>
+
 ![Top Languages](https://github-readme-stats-silk-two-82.vercel.app/api/top-langs/?username=Morgan971-pixel&hide=Jupyter%20Notebook&count_private=true&langs_count=8&layout=compact&theme=tokyonight&hide_border=true)
 
+</td>
+<td>
+
 ![Productive Time](https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=Morgan971-pixel&theme=tokyonight&utcOffset=-4)
+
+</td>
+</tr>
+</table>
 
 </div>
 
