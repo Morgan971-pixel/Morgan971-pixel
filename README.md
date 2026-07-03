@@ -102,7 +102,22 @@ Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs
 
 <div align="center">
 
+<table>
+<tr>
+<td>
+
+![GitHub Stats](https://github-readme-stats-erm5tzf2z-morganganunda.vercel.app/api?username=Morgan971-pixel&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true&hide_rank=true)
+
+</td>
+<td>
+
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Morgan971-pixel&theme=tokyonight&hide_border=true)
+
+</td>
+</tr>
+</table>
+
+![Top Languages](https://github-readme-stats-erm5tzf2z-morganganunda.vercel.app/api/top-langs/?username=Morgan971-pixel&layout=compact&theme=tokyonight&hide_border=true&langs_count=8&count_private=true)
 
 <table>
 <tr>
@@ -114,11 +129,6 @@ Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs
 <td>
 
 ![Most Commit Language](https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=Morgan971-pixel&theme=tokyonight)
-
-</td>
-<td>
-
-![Stats](https://github-profile-summary-cards.vercel.app/api/cards/stats?username=Morgan971-pixel&theme=tokyonight)
 
 </td>
 <td>
