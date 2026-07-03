@@ -104,8 +104,6 @@ Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs
 
 ![GitHub Streak](https://streak-stats.demolab.com/?user=Morgan971-pixel&theme=tokyonight&hide_border=true)
 
-![Profile Details](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Morgan971-pixel&theme=tokyonight)
-
 <table>
 <tr>
 <td>
