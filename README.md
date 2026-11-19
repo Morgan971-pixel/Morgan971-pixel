@@ -16,8 +16,8 @@
 ```
 Name     : Morgan
 Role     : Software Engineer
-Focus    : Multi-agent AI systems, LLM pipelines, computational neuroscience
-Stack    : Python · PyTorch · MLflow · Streamlit · LangChain · FastAPI
+Focus    : Brain-computer interfaces, multi-agent AI systems, LLM pipelines, ML fairness
+Stack    : Python · Rust · C++ · PyTorch · scikit-learn · LangGraph · FastAPI · Next.js
 ```
 
 ---
@@ -26,7 +26,45 @@ Stack    : Python · PyTorch · MLflow · Streamlit · LangChain · FastAPI
 <tr>
 <td width="50%" valign="top">
 
-**01 — upstart-rag**
+**01 · [realtime-motor-imagery-bci-decoder](https://github.com/Morgan971-pixel/realtime-motor-imagery-bci-decoder)**
+
+Decodes imagined left or right hand movement from 8-channel EEG as the samples arrive. One decoder, written three times: a Python reference plus Rust and C++ cores that make bit-identical decisions in about 18 µs. It runs live over Lab Streaming Layer, and CI runs sanitizers, fuzzing and Miri. Above chance for 56 of 106 people on PhysioNet EEGMMIDB.
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat-square&logo=rust&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
+![LSL](https://img.shields.io/badge/LSL-2d1b69?style=flat-square)
+
+</td>
+<td width="50%" valign="top">
+
+**02 · [desertmap](https://github.com/Morgan971-pixel/desertmap)**
+
+Random Forest that predicts USDA food desert status for 72,531 U.S. census tracts, then audits itself for racial bias four ways. Tracts graded C or D on 1930s redlining maps get a 1.53x higher predicted rate, even though the model trained on modern data only. Every tract has a SHAP explanation on the live map at [desertmap.vercel.app](https://desertmap.vercel.app).
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white)
+![SHAP](https://img.shields.io/badge/SHAP-0d0d2e?style=flat-square)
+![deck.gl](https://img.shields.io/badge/deck.gl-1F2937?style=flat-square)
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+**03 · [sokoiq](https://github.com/Morgan971-pixel/sokoiq)**
+
+Equity research for the Nairobi Securities Exchange. Four LangGraph agents pull live NSE prices, financial headlines and news sentiment; Claude Haiku turns them into a BUY/HOLD/SELL brief that streams to a Next.js UI over WebSocket. Live at [sokoiq.vercel.app](https://sokoiq.vercel.app).
+
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
+![LangGraph](https://img.shields.io/badge/LangGraph-1C3C3C?style=flat-square)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**04 · [upstart-rag](https://github.com/Morgan971-pixel/upstart-rag)**
 
 LLM-powered RAG pipeline over Upstart Holdings (UPST) earnings transcripts and SEC filings. Vector embeddings with chunk-level citation tracking and an interactive Streamlit Q&A interface.
 
@@ -36,22 +74,22 @@ LLM-powered RAG pipeline over Upstart Holdings (UPST) earnings transcripts and S
 ![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**02 — menace-tictactoe**
+**05 · [menace-tictactoe](https://github.com/Morgan971-pixel/menace-tictactoe)**
 
-Classic MENACE RL agent that learns optimal Tic-Tac-Toe strategy through pure self-play. Zero hand-crafted heuristics; emergent strategy from reward signals alone.
+Classic MENACE RL agent that learns optimal Tic-Tac-Toe strategy through pure self-play, with every move preference learned from reward signals.
 
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**03 — Image-Classification-CIFAR-10**
+**06 · [Image-Classification-CIFAR-10](https://github.com/Morgan971-pixel/Image-Classification-CIFAR-10)**
 
 CNN image classifier on CIFAR-10 with batch normalization and data augmentation. Full training pipeline with per-class performance analysis across all 10 categories.
 
@@ -60,9 +98,11 @@ CNN image classifier on CIFAR-10 with batch normalization and data augmentation.
 ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
 
 </td>
+</tr>
+<tr>
 <td width="50%" valign="top">
 
-**04 — Stroke_Prediction**
+**07 · [Stroke_Prediction](https://github.com/Morgan971-pixel/Stroke_Prediction)**
 
 Stroke risk prediction using XGBoost and Random Forest with SHAP interpretability. Class imbalance handled via SMOTE; end-to-end from EDA to model explainability.
 
@@ -71,11 +111,9 @@ Stroke risk prediction using XGBoost and Random Forest with SHAP interpretabilit
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
 
 </td>
-</tr>
-<tr>
 <td width="50%" valign="top">
 
-**05 — college-monte-carlo**
+**08 · [college-monte-carlo](https://github.com/Morgan971-pixel/college-monte-carlo)**
 
 Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs-party probability estimator and a 16-week pizza budget predictor that models stress eating, social events, and random cravings.
 
@@ -84,7 +122,6 @@ Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=flat-square)
 
 </td>
-<td width="50%" valign="top"></td>
 </tr>
 </table>
 
@@ -94,7 +131,7 @@ Two Monte Carlo simulations of classic college decisions. 10,000-run homework-vs
 
 [![ML Stack](https://skillicons.dev/icons?i=python,pytorch,tensorflow,r,git,docker,linux,bash,github&perline=9)](https://skillicons.dev)
 
-[![Dev Stack](https://skillicons.dev/icons?i=fastapi,react,nextjs,ts,postgres,redis,aws,vscode&perline=9)](https://skillicons.dev)
+[![Dev Stack](https://skillicons.dev/icons?i=rust,cpp,fastapi,react,nextjs,ts,postgres,redis,aws,vscode&perline=10)](https://skillicons.dev)
 
 </div>
 
