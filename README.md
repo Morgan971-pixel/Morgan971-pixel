@@ -64,14 +64,11 @@ Equity research for the Nairobi Securities Exchange. Four LangGraph agents pull 
 </td>
 <td width="50%" valign="top">
 
-**04 · [upstart-rag](https://github.com/Morgan971-pixel/upstart-rag)**
+**04 · [DSA-Practice](https://github.com/Morgan971-pixel/DSA-Practice)**
 
-LLM-powered RAG pipeline over Upstart Holdings (UPST) earnings transcripts and SEC filings. Vector embeddings with chunk-level citation tracking and an interactive Streamlit Q&A interface.
+Data structures and algorithms implemented from scratch in C++: 62 programs across 13 topics. Covers linked lists, stacks, queues, heaps with heap sort, hashing and AVL trees, plus graph algorithms including BFS/DFS, Dijkstra, Kruskal and Prim, and greedy methods such as fractional knapsack and optimal merge patterns.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![FAISS](https://img.shields.io/badge/FAISS-0467DF?style=flat-square)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </td>
 </tr>
