@@ -52,7 +52,19 @@ Random Forest that predicts USDA food desert status for 72,531 U.S. census tract
 <tr>
 <td width="50%" valign="top">
 
-**03 · [sokoiq](https://github.com/Morgan971-pixel/sokoiq)**
+**03 · [menace-game](https://github.com/Morgan971-pixel/menace-game)**
+
+Play noughts and crosses against MENACE, Donald Michie's 1961 learner made of 304 matchboxes and beads, in a 3D study, and watch it learn you. Each move slides out the real box and draws a bead; a ledger shows the beads won and lost after every game. Train it against random, perfect or mirror opponents and watch the learning curve. The engine is a TypeScript port of my Python [menace-tictactoe](https://github.com/Morgan971-pixel/menace-tictactoe) with a symmetry bug fixed; 420 tests, Lighthouse accessibility 100. Live at [menace-game.vercel.app](https://menace-game.vercel.app).
+
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB)
+![Three.js](https://img.shields.io/badge/Three.js-000000?style=flat-square&logo=threedotjs&logoColor=white)
+![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white)
+
+</td>
+<td width="50%" valign="top">
+
+**04 · [sokoiq](https://github.com/Morgan971-pixel/sokoiq)**
 
 Equity research for the Nairobi Securities Exchange. Four LangGraph agents pull live NSE prices, financial headlines and news sentiment; Claude Haiku turns them into a BUY/HOLD/SELL brief that streams to a Next.js UI over WebSocket. Live at [sokoiq.vercel.app](https://sokoiq.vercel.app).
 
@@ -62,26 +74,15 @@ Equity research for the Nairobi Securities Exchange. Four LangGraph agents pull 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
 
 </td>
-<td width="50%" valign="top">
-
-**04 · [DSA-Practice](https://github.com/Morgan971-pixel/DSA-Practice)**
-
-Data structures and algorithms implemented from scratch in C++: 62 programs across 13 topics. Covers linked lists, stacks, queues, heaps with heap sort, hashing and AVL trees, plus graph algorithms including BFS/DFS, Dijkstra, Kruskal and Prim, and greedy methods such as fractional knapsack and optimal merge patterns.
-
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
-
-</td>
 </tr>
 <tr>
 <td width="50%" valign="top">
 
-**05 · [menace-tictactoe](https://github.com/Morgan971-pixel/menace-tictactoe)**
+**05 · [DSA-Practice](https://github.com/Morgan971-pixel/DSA-Practice)**
 
-Classic MENACE RL agent that learns optimal Tic-Tac-Toe strategy through pure self-play, with every move preference learned from reward signals.
+Data structures and algorithms implemented from scratch in C++: 62 programs across 13 topics. Covers linked lists, stacks, queues, heaps with heap sort, hashing and AVL trees, plus graph algorithms including BFS/DFS, Dijkstra, Kruskal and Prim, and greedy methods such as fractional knapsack and optimal merge patterns.
 
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)
+![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=flat-square&logo=cplusplus&logoColor=white)
 
 </td>
 <td width="50%" valign="top">
